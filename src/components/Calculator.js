@@ -59,7 +59,7 @@ function Calculator() {
           <button onClick={handleClick} value="8">8</button>
           <button onClick={handleClick} value="9">9</button>
           <button onClick={handleClick} value="del">DEL</button>
-          <button onClick={handleClick} value="">4</button>
+          <button onClick={handleClick} value="4">4</button>
           <button onClick={handleClick} value="5">5</button>
           <button onClick={handleClick} value="6">6</button>
           <button className='operator' onClick={handleChangeOperation} value='+'>+</button>

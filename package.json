@@ -1,7 +1,7 @@
 {
   "name": "calculator",
   "version": "0.1.0",
-  "home": "MatiasMass.github.io/Calculator",
+  "homepage": "https://matiasmass.github.io/Calculator/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
