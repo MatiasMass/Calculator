@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MatiasMass.github.io/Calculator/static/css/main.775baecb.css",
-    "main.js": "/MatiasMass.github.io/Calculator/static/js/main.3b042fd0.js",
-    "static/media/logo.svg": "/MatiasMass.github.io/Calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/MatiasMass.github.io/Calculator/index.html",
-    "main.775baecb.css.map": "/MatiasMass.github.io/Calculator/static/css/main.775baecb.css.map",
-    "main.3b042fd0.js.map": "/MatiasMass.github.io/Calculator/static/js/main.3b042fd0.js.map"
+    "main.css": "/matiasmass.github.io/Calculator/static/css/main.775baecb.css",
+    "main.js": "/matiasmass.github.io/Calculator/static/js/main.c985736a.js",
+    "static/media/logo.svg": "/matiasmass.github.io/Calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/matiasmass.github.io/Calculator/index.html",
+    "main.775baecb.css.map": "/matiasmass.github.io/Calculator/static/css/main.775baecb.css.map",
+    "main.c985736a.js.map": "/matiasmass.github.io/Calculator/static/js/main.c985736a.js.map"
   },
   "entrypoints": [
     "static/css/main.775baecb.css",
-    "static/js/main.3b042fd0.js"
+    "static/js/main.c985736a.js"
   ]
 }
